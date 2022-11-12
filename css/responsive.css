@@ -1,0 +1,451 @@
+@media (min-width: 279px) and (max-width: 319px){
+/*css start*/
+  /*header section*/
+  .header .logo{
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+  .menu .top-menu p{
+    margin: 13px 0px 13px;
+    text-align: center;
+    font-size: 11px;
+  }
+  .menu .navbar-toggler{
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 3px;
+  }
+  .menu .navbar-toggler .fa{
+    color: #000;
+  }
+  .menu .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+    padding: 0px 0px;
+  }
+  .sub{
+    width: 100%;
+  }
+  .sub h4{
+    font-size: 11px;
+    line-height: 21px;
+  }
+  .content h1{
+    font-size: 56px;
+    line-height: 66px;
+  }
+  .content h3{
+    font-size: 45px;
+    line-height: 55px;
+  }
+  /*header section*/
+  /*feature section*/
+  .desktop{
+    display: none;
+  }
+  .mobile{
+    display: block;
+  }
+  .feature .card .card-body{
+    width: auto;
+  }
+  .feature .card .card-body h5{
+    font-size: 16px;
+    line-height: 26px;
+        margin: -20px 0px 0px -26px;
+  }
+  .feature .card .card-body h2{
+    font-size: 22px;
+    line-height: 32px;
+    margin: 0px 0px 0px -25px;
+  }
+  /*feature section*/
+  /*services section*/
+  .services .title .subtitle{
+    width: 91%;
+  }
+  .services .title .subtitle h4{
+    font-size: 23px;
+    line-height: 33px;
+  }
+  .services .card .card-img-top {
+    width: 100%;
+    height: 180px;
+  }
+  .services .card .card-title{
+    font-size: 23px;
+    line-height: 33px;
+  }
+  .services .card .card-text{
+    font-size: 11px;
+    line-height: 21px;
+  }
+  .services .card .card-body .btn-primary{
+    width: 100%;
+    font-size: 16px;
+    padding: 17px 2px 14px 0px;
+    margin: 0px 0px 0px 1px;
+  }
+  .services .title h1{
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .services .title p{
+    padding: 10px 10px;
+  }
+  /*services section*/
+  /*slider section*/
+  .slider .owl-carousel .item h5{
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .slider .owl-carousel .item h2{
+    font-size: 16px;
+    line-height: 26px;
+    margin: -7px 0px 20px;
+  }
+  .slider .owl-carousel .item p{
+    width: 100%;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .slider .owl-carousel .item .img-fluid {
+    height: 205px;
+  }
+  /*slider section*/
+  /*contact section*/
+  .contact{
+    padding: 0px 0px
+  }
+  .contact .title .subtitle h4{
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .contact .title h1{
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .main-form{
+    padding: 0px 0px;
+  }
+  /*contact section*/
+  /*footer section*/
+  .text-inner{
+    width: 100%;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .info p{
+    font-size: 10px;
+  }
+  .copyrights{
+    text-align: center;
+    font-size: 13px;
+  }
+  .social-icons ul{
+    text-align: center;
+  }
+  /*footer section*/
+/*css end*/
+}
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 480px){
+/*css start*/
+  /*header section*/
+  .header .logo{
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+  .menu .top-menu p{
+    margin: 13px 0px 13px;
+    text-align: center;
+  }
+  .menu .navbar-toggler{
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 3px;
+  }
+  .menu .navbar-toggler .fa{
+    color: #000;
+  }
+  .menu .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+    padding: 60px 0px;
+  }
+  .sub{
+    width: 95%;
+  }
+  .sub h4{
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .content h1{
+    font-size: 85px;
+    line-height: 95px;
+  }
+  .content h3{
+    font-size: 63px;
+    line-height: 73px;
+  }
+  /*header section*/
+  /*feature section*/
+  .desktop{
+    display: none;
+  }
+  .mobile{
+    display: block;
+  }
+  .feature .card .card-body{
+    width: auto;
+  }
+  .feature .card .card-body h5{
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .feature .card .card-body h2{
+    font-size: 31px;
+    line-height: 41px;
+  }
+  /*feature section*/
+  /*services section*/
+  .services .title .subtitle{
+    width: 70%;
+  }
+  .services .title .subtitle h4{
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .services .card .card-img-top {
+    width: 100%;
+    height: 230px;
+  }
+  .services .title h1{
+    font-size: 37px;
+    line-height: 47px;
+  }
+  .services .title p{
+    padding: 10px 36px;
+  }
+  /*services section*/
+  /*slider section*/
+  .slider .owl-carousel .item h2{
+    font-size: 27px;
+    line-height: 37px;
+    margin: -7px 0px 20px;
+  }
+  .slider .owl-carousel .item p{
+    width: 100%;
+    font-size: 17px;
+    line-height: 27px;
+  }
+  .slider .owl-carousel .item .img-fluid {
+    height: 310px;
+  }
+  /*slider section*/
+  /*contact section*/
+  .contact{
+    padding: 0px 0px
+  }
+  .contact .title h1{
+    font-size: 35px;
+    line-height: 46px;
+  }
+  .main-form{
+    padding: 0px 0px;
+  }
+  /*contact section*/
+  /*footer section*/
+  .text-inner{
+    width: 100%;
+    font-size: 17px;
+    line-height: 27px;
+  }
+  .copyrights{
+    text-align: center;
+  }
+  .social-icons ul{
+    text-align: center;
+  }
+  /*footer section*/
+/*css end*/  
+}
+
+
+
+
+
+@media (min-width: 481px) and (max-width: 767px){
+/*css start*/
+    
+/*css end*/  
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+/*css start*/
+    /*header section*/
+  .header .logo{
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+  .menu .top-menu p{
+    margin: 13px 0px 13px;
+    text-align: center;
+    font-size: 18px;
+  }
+  .menu .navbar-toggler{
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 8%;
+    line-height: 31px;
+  }
+  .menu .navbar-toggler .fa{
+    color: #000;
+    font-size: 30px;
+    line-height: 40px;
+    margin: 0px;
+    padding: 0px;
+  }
+  .menu .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+    font-size: 24px;
+  }
+  .banner{
+    width: 100%;
+    padding: 60px 0px;
+  }
+  .sub{
+    width: 95%;
+  }
+  .sub h4{
+    font-size: 37px;
+    line-height: 47px;
+  }
+  .content h1{
+    font-size: 156px;
+    line-height: 166px;
+  }
+  .content h3{
+    font-size: 89px;
+    line-height: 108px;
+  }
+  /*header section*/
+  /*feature section*/
+  .desktop{
+    display: none;
+  }
+  .mobile{
+    display: block;
+  }
+  .feature .card .card-body{
+    width: auto;
+  }
+  .feature .card .card-body h5{
+    font-size: 41px;
+    line-height: 51px;
+  }
+  .feature .card .card-body h2{
+    font-size: 50px;
+    line-height: 60px;
+  }
+  /*feature section*/
+  /*services section*/
+  .services .title .subtitle{
+    width: 70%;
+  }
+  .services .title .subtitle h4{
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .services .title h1{
+    font-size: 65px;
+    line-height: 75px;
+  }
+  .services .title p{
+    padding: 23px 36px;
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .services .card .card-img-top {
+    width: 100%;
+    height: 470px;
+  }
+  .services .card .card-title{
+    font-size: 63px;
+    line-height: 73px;
+  }
+  .services .card .card-text{
+    font-size: 21px;
+    line-height: 31px;
+  }
+  .services .card .card-body .btn-primary{
+    padding: 22px 60px;
+  }
+  /*services section*/
+  /*slider section*/
+  .slider .owl-carousel .item h2{
+    font-size: 20px;
+    line-height: 30px;
+    margin: -7px 0px 20px;
+  }
+  .slider .owl-carousel .item p{
+    width: 100%;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .slider .owl-carousel .item .img-fluid {
+    height: 310px;
+  }
+  /*slider section*/
+  /*contact section*/
+  .contact{
+    padding: 0px 0px
+  }
+  .contact .title .subtitle h4{
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .contact .title h1{
+    font-size: 48px;
+    line-height: 58px;
+  }
+  .main-form{
+    padding: 0px 0px;
+  }
+  /*contact section*/
+  /*footer section*/
+  .text-inner{
+    width: 100%;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .copyrights{
+    text-align: left;
+    margin-left: 0px;
+  }
+  .info p{
+    font-size: 11px;
+    line-height: 22px;
+  }
+  .social-icons ul{
+    text-align: center;
+  }
+  /*footer section*/
+/*css end*/  
+}
